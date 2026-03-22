@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-阿尔法收割者
-##1.Panel已经弃用，会导致报错
-##2.if_concise存在混用
-Project: alphasickle
-Author: Moses
-E-mail: 8342537@qq.com
-"""
+
 import os
 import warnings
 import xarray as xr

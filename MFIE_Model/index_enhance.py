@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-阿尔法收割者
-修改1.112行
-Project: alphasickle
-Author: Moses
-E-mail: 8342537@qq.com
-"""
+
+
 import re
 import os
 import numpy as np

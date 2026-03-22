@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-阿尔法收割者
 
-Project: alphasickle
-Author: Moses
-E-mail: 8342537@qq.com
-"""
 import os
 import warnings
 warnings.filterwarnings('ignore')  #将运行中的警告信息设置为“忽略”，从而不在控制台显示

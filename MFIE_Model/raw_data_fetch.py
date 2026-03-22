@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-阿尔法收割者
-
-Project: alphasickle
-Author: Moses
-E-mail: 8342537@qq.com
-"""
 
 import os
 import numpy as np
@@ -353,7 +346,7 @@ class RawDataFetcher(FactorGenerater):
 
 class TushareFetcher(RawDataFetcher):
     def __init__(self):
-        self.pro = ts.pro_api('23166cc175fbd78f1917350a8eac8ea2d534e8458c1f6bd43d0ff8e5')##x需要替换成真实token
+        self.pro = ts.pro_api('')##x需要替换成真实token
     
         print("修改成功")
         super().__init__(using_fetch=True)

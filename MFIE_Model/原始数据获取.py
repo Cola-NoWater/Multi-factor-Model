@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-阿尔法收割者
 
-Project: alphasickle
-Author: Moses
-E-mail: 8342537@qq.com
-"""
 import sys 
 sys.path.append("/home/linyuchang/wcp/model/MFIE_Model")
 from joblib import Parallel, delayed
